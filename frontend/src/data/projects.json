@@ -1,0 +1,202 @@
+[
+  {
+    "id": 2,
+    "title": "Agente Schwefel",
+    "description": "Sistema de IA que implementa agentes autónomos inteligentes. Toma decisiones automáticas, aprende de patrones y se adapta al entorno sin intervención humana.",
+    "image": "/images/agente-schwefel.png",
+    "technologies": [
+      "JavaScript",
+      "IA",
+      "Agentes Autónomos"
+    ],
+    "link": "https://github.com/ChrisDuran19/Agente_Schwefel",
+    "category": "IA",
+    "featured": true,
+    "date": "2024"
+  },
+  {
+    "id": 3,
+    "title": "AICONNECTION",
+    "description": "Plataforma que conecta múltiples sistemas usando IA. Integra APIs heterogéneas, gestiona comunicación inteligente entre servicios y automatiza flujos de datos.",
+    "image": "/images/aiconnection.png",
+    "technologies": [
+      "JavaScript",
+      "IA",
+      "Comunicación",
+      "API"
+    ],
+    "link": "https://github.com/ChrisDuran19/AICONNECTION",
+    "category": "FullStack",
+    "featured": true,
+    "date": "2024"
+  },
+  {
+    "id": 4,
+    "title": "Plataforma Comunicación Inclusiva",
+    "description": "Solución de comunicación accesible para personas con discapacidad. Interfaz intuitiva con opciones de voz, texto y gestos. Cumple estándares WCAG.",
+    "image": "/images/plataforma-inclusiva.png",
+    "technologies": [
+      "JavaScript",
+      "React",
+      "Accesibilidad",
+      "UX/UI"
+    ],
+    "link": "https://github.com/ChrisDuran19/plataforma-comunicacion-inclusiva",
+    "category": "FullStack",
+    "featured": true,
+    "date": "2024"
+  },
+  {
+    "id": 5,
+    "title": "Lingobeat",
+    "description": "Aplicación gamificada para aprender idiomas mediante ritmo y música. Combina lecciones interactivas, ejercicios de pronunciación y desafíos diarios.",
+    "image": "/images/lingobeat.png",
+    "technologies": [
+      "JavaScript",
+      "React",
+      "Música",
+      "Educación"
+    ],
+    "link": "https://github.com/ChrisDuran19/lingobeat",
+    "category": "FullStack",
+    "date": "2024"
+  },
+  {
+    "id": 6,
+    "title": "Testing Automático",
+    "description": "Framework completo de pruebas automatizadas con Jest. Cubre unit tests, integration tests y reportes de cobertura. Integrado con CI/CD.",
+    "image": "/images/testing.png",
+    "technologies": [
+      "JavaScript",
+      "Jest",
+      "Testing",
+      "CI/CD"
+    ],
+    "link": "https://github.com/ChrisDuran19/testing_automatico",
+    "category": "DevOps",
+    "date": "2024"
+  },
+  {
+    "id": 7,
+    "title": "Scripts Automatizados",
+    "description": "Colección de scripts Bash para automatizar tareas del sistema Linux. Optimiza desempeño, gestiona permisos, backups y mantenimiento automático.",
+    "image": "/images/scripts.png",
+    "technologies": [
+      "Shell",
+      "Bash",
+      "Automatización",
+      "Linux"
+    ],
+    "link": "https://github.com/ChrisDuran19/Scripts_automatizados",
+    "category": "DevOps",
+    "date": "2024"
+  },
+  {
+    "id": 8,
+    "title": "Hyprland Automatic",
+    "description": "Herramienta de auto-configuración para detectar distros Linux e instalar Hyprland personalizado automáticamente. Reduce setup manual a un comando.",
+    "image": "/images/hyprland.png",
+    "technologies": [
+      "Shell",
+      "Hyprland",
+      "Linux",
+      "Automatización"
+    ],
+    "link": "https://github.com/ChrisDuran19/hyprland_automatic",
+    "category": "DevOps",
+    "date": "2024"
+  },
+  {
+    "id": 9,
+    "title": "Aeropéndulo",
+    "description": "Simulador interactivo de control de aeropéndulo. Demuestra conceptos de estabilización, realimentación y física del control en tiempo real.",
+    "image": "/images/aeropendulo.png",
+    "technologies": [
+      "HTML",
+      "Control",
+      "Física",
+      "Simulación"
+    ],
+    "link": "https://github.com/ChrisDuran19/aeropendulo",
+    "category": "Hardware",
+    "date": "2024"
+  },
+  {
+    "id": 10,
+    "title": "VulnOSINT-Scanner",
+    "description": "Herramienta de pentesting que escanea vulnerabilidades mediante OSINT. Recopila información de múltiples fuentes y genera reportes de seguridad detallados.",
+    "image": "/images/vulnosint.png",
+    "technologies": [
+      "Python",
+      "Seguridad",
+      "OSINT",
+      "Pentesting"
+    ],
+    "link": "https://github.com/ChrisDuran19/VulnOSINT-Scanner",
+    "category": "Seguridad",
+    "date": "2024"
+  },
+  {
+    "id": 11,
+    "title": "CPU RISC-V Básico para FPGA",
+    "description": "Procesador RISC-V de 32 bits implementado en VHDL para FPGA. Ejecuta instrucciones, maneja memoria y demuestra arquitectura digital moderna.",
+    "image": "/images/risc-v.png",
+    "technologies": [
+      "VHDL",
+      "FPGA",
+      "Arquitectura",
+      "Hardware"
+    ],
+    "link": "https://github.com/ChrisDuran19/CPU-RISC-V-B-sico-para-FPGA",
+    "category": "Hardware",
+    "date": "2024"
+  },
+  {
+    "id": 12,
+    "title": "App Control Robot Movil",
+    "description": "Sistema embebido en Assembly/C para controlar robot móvil. 6 desafíos de navegación, sensores, terminal Assembler Hex y logging operacional.",
+    "image": "/images/app-robot.png",
+    "technologies": [
+      "Assembly",
+      "C",
+      "Embebidos",
+      "Robótica"
+    ],
+    "link": "https://github.com/ChrisDuran19/app_control_robot_movil",
+    "category": "Embebidos",
+    "featured": true,
+    "date": "2024"
+  },
+  {
+    "id": 13,
+    "title": "Control Ansible",
+    "description": "Suite de herramientas para automatizar provisioning e infraestructura. Gestiona servidores, configuración y deployments en múltiples nodos automáticamente.",
+    "image": "/images/ansible.png",
+    "technologies": [
+      "Ansible",
+      "Python",
+      "DevOps",
+      "Infraestructura"
+    ],
+    "link": "https://github.com/ChrisDuran19/control_ansible",
+    "category": "DevOps",
+    "date": "2024"
+  },
+  {
+    "id": 14,
+    "title": "HR Mind AI Platform",
+    "description": "Plataforma inteligente de gestión de recursos humanos con IA. Automatiza selección, nómina, evaluaciones y predicción de desempeño de empleados.",
+    "image": "/images/hrmind-ai-platform.png",
+    "technologies": [
+      "JavaScript",
+      "React",
+      "Python",
+      "IA",
+      "DevOps"
+    ],
+    "link": "https://github.com/ChrisDuran19/hrmind-ai-platform",
+    "category": "FullStack",
+    "featured": true,
+    "date": "2024"
+  }
+]

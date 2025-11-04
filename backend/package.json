@@ -1,0 +1,10 @@
+{
+  "name": "portafolio-cristian-duran-backend",
+  "version": "1.0.0",
+  "description": "Backend del portafolio profesional",
+  "private": true,
+  "scripts": {
+    "dev": "python app.py",
+    "dev:win": "python app.py"
+  }
+}

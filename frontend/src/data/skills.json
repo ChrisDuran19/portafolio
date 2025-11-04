@@ -1,0 +1,189 @@
+{
+  "frontend": [
+    {
+      "name": "React.js",
+      "level": 95,
+      "icon": "⚛️"
+    },
+    {
+      "name": "JavaScript",
+      "level": 98,
+      "icon": "📜"
+    },
+    {
+      "name": "HTML/CSS",
+      "level": 96,
+      "icon": "🎨"
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": 94,
+      "icon": "🎨"
+    },
+    {
+      "name": "Vue.js",
+      "level": 85,
+      "icon": "💚"
+    },
+    {
+      "name": "TypeScript",
+      "level": 90,
+      "icon": "📘"
+    }
+  ],
+  "backend": [
+    {
+      "name": "Python",
+      "level": 95,
+      "icon": "🐍"
+    },
+    {
+      "name": "Node.js",
+      "level": 94,
+      "icon": "💚"
+    },
+    {
+      "name": "Express.js",
+      "level": 92,
+      "icon": "⚡"
+    },
+    {
+      "name": "Django",
+      "level": 90,
+      "icon": "🎯"
+    },
+    {
+      "name": "PostgreSQL",
+      "level": 93,
+      "icon": "🐘"
+    },
+    {
+      "name": "MongoDB",
+      "level": 91,
+      "icon": "🍃"
+    }
+  ],
+  "mobile": [
+    {
+      "name": "React Native",
+      "level": 92,
+      "icon": "📱"
+    },
+    {
+      "name": "Kotlin",
+      "level": 91,
+      "icon": "📱"
+    },
+    {
+      "name": "Flutter",
+      "level": 88,
+      "icon": "🦅"
+    },
+    {
+      "name": "Android Studio",
+      "level": 90,
+      "icon": "🤖"
+    },
+    {
+      "name": "iOS Development",
+      "level": 85,
+      "icon": "🍎"
+    }
+  ],
+  "ai_ml": [
+    {
+      "name": "TensorFlow",
+      "level": 89,
+      "icon": "🤖"
+    },
+    {
+      "name": "PyTorch",
+      "level": 87,
+      "icon": "🔥"
+    },
+    {
+      "name": "Machine Learning",
+      "level": 91,
+      "icon": "🧠"
+    },
+    {
+      "name": "Deep Learning",
+      "level": 88,
+      "icon": "🧠"
+    },
+    {
+      "name": "NLP",
+      "level": 86,
+      "icon": "📝"
+    },
+    {
+      "name": "Computer Vision",
+      "level": 85,
+      "icon": "👁️"
+    }
+  ],
+  "devops": [
+    {
+      "name": "Docker",
+      "level": 93,
+      "icon": "🐳"
+    },
+    {
+      "name": "Kubernetes",
+      "level": 88,
+      "icon": "☸️"
+    },
+    {
+      "name": "CI/CD",
+      "level": 92,
+      "icon": "🔄"
+    },
+    {
+      "name": "Linux",
+      "level": 96,
+      "icon": "🐧"
+    },
+    {
+      "name": "Git",
+      "level": 97,
+      "icon": "🔀"
+    },
+    {
+      "name": "AWS",
+      "level": 90,
+      "icon": "☁️"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Vite",
+      "level": 94,
+      "icon": "⚡"
+    },
+    {
+      "name": "Webpack",
+      "level": 91,
+      "icon": "📦"
+    },
+    {
+      "name": "Git",
+      "level": 97,
+      "icon": "🔀"
+    },
+    {
+      "name": "Figma",
+      "level": 88,
+      "icon": "🎨"
+    },
+    {
+      "name": "VS Code",
+      "level": 98,
+      "icon": "💻"
+    },
+    {
+      "name": "Postman",
+      "level": 94,
+      "icon": "🛠️"
+    }
+  ]
+}

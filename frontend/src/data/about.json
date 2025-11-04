@@ -1,0 +1,22 @@
+{
+  "name": "Cristian David Durán Grimaldo",
+  "title": "Ingeniero Electrónico | Full Stack Developer | IA & ML Specialist",
+  "bio": "Desarrollador y ingeniero electrónico apasionado por crear soluciones innovadoras con tecnología de punta. Especializado en desarrollo mobile, web full stack, inteligencia artificial y sistemas embebidos.",
+  "email": "cdduran_desarrollador@gmail.com",
+  "location": "Bogotá, Colombia",
+  "experience": "5+ años en desarrollo de software y electrónica",
+  "highlights": [
+    "✨ Experto en React.js y JavaScript moderno",
+    "🐍 Especialista en Python y Machine Learning",
+    "📱 Desarrollo móvil nativo (Kotlin, Swift)",
+    "🤖 Experiencia en IA, Deep Learning y NLP",
+    "☸️ DevOps y administración de servidores Unix",
+    "🔧 Sistemas embebidos y FPGA"
+  ],
+  "social": {
+    "github": "https://github.com/ChrisDuran19",
+    "linkedin": "https://linkedin.com/in/cristian-duran",
+    "twitter": "https://twitter.com/ChrisDuran19",
+    "email": "cdduran_desarrollador@gmail.com"
+  }
+}
