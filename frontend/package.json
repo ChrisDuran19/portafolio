@@ -25,7 +25,7 @@
   "scripts": {
     "dev": "concurrently \"vite\" \"npm --prefix ../backend run dev\"",
     "dev:win": "concurrently \"vite\" \"npm --prefix ..\\backend run dev:win\"",
-    "build": "vite build",
+    "build": "npx vite build",
     "preview": "vite preview",
     "start": "vite"
   }
